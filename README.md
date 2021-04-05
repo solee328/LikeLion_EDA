@@ -152,7 +152,3 @@ COVID-19 시계열 데이터(province 별 누적 환자 수 및 사망 수)
 > transit_stations_percent_change_from_baseline : 지하철 이용량 변화 추이
 > workplaces_percent_change_from_baseline : 직장 출퇴근 변화 추이
 > residential_percent_change_from_baseline : 거주지 이동 변화 추이
-
-**2021_KR_Region_Mobility_Report**  : google datasets : https://www.google.com/covid19/mobility/
-/ https://sites.google.com/view/snuaric/covid-19/covid-19-and-mobility 참고 사이트
-지역별 모빌리티 추이
