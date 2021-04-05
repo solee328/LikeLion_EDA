@@ -139,3 +139,20 @@ COVID-19 시계열 데이터(province 별 누적 환자 수 및 사망 수)
 > most_wind_direction : 가장 빈번한 바람 방향  
 > avg_relative_humidity : 평균 상대 습도  
 
+
+**2021_KR_Region_Mobility_Report**  : google datasets : https://www.google.com/covid19/mobility/
+/ https://sites.google.com/view/snuaric/covid-19/covid-19-and-mobility 참고 사이트
+지역별 모빌리티 추이
+> country : 지역명
+> code : 지역 코드  
+> date : YYYY-MM-DD  
+> retail_and_recreation_percent_change_from_baseline : 소매 및 레크레이션 변화 추이
+> grocery_and_pharmacy_percent_change_from_baseline : 식료품 변화 추이
+> parks_percent_change_from_baseline : 공원 이용량 변화 추이
+> transit_stations_percent_change_from_baseline : 지하철 이용량 변화 추이
+> workplaces_percent_change_from_baseline : 직장 출퇴근 변화 추이
+> residential_percent_change_from_baseline : 거주지 이동 변화 추이
+
+**2021_KR_Region_Mobility_Report**  : google datasets : https://www.google.com/covid19/mobility/
+/ https://sites.google.com/view/snuaric/covid-19/covid-19-and-mobility 참고 사이트
+지역별 모빌리티 추이
