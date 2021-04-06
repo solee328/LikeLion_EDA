@@ -7,16 +7,7 @@ This is test branch for using colab with data.
 ---
 
 ### 데이터 설명
-**Case**  
-환자들 데이터
-> case_id : 7자리로 이루어짐. case_id = region_code(5) + case_number(2)  
-> province : 지역(특별시, 광역시, 도)
-> city : 지역(시, 군, 구)  
-> group : 집단 감염 여부  
-> infection_case : 감염 집단 이름, etc 값도 존재한다.  
-> confirmed :  누적 수  
-> latitude : 위도  
-> longitude : 경도  
+사용 데이터  
 
 **PatientInfo**    
 환자 별 역학 조사 데이터
@@ -49,17 +40,30 @@ This is test branch for using colab with data.
 > latitude : 위도  
 > longitude : 경도  
 
+---
+
+**Case**  
+환자들 데이터
+> case_id : 7자리로 이루어짐. case_id = region_code(5) + case_number(2)  
+> province : 지역(특별시, 광역시, 도)  
+> city : 지역(시, 군, 구)  
+> group : 집단 감염 여부  
+> infection_case : 감염 집단 이름, etc 값도 존재한다.  
+> confirmed :  누적 수  
+> latitude : 위도  
+> longitude : 경도  
+
 **Policy**  
 정책 적용 데이터
 > policy_id  
 > country : Korea  
-> type : 적용 분야(기술, 사회, 교육 등)
-> gov_policy : 적용 정책 명
+> type : 적용 분야(기술, 사회, 교육 등)  
+> gov_policy : 적용 정책 명  
 > detail : 상세 내용  
 > start_date : 정책 시작일  
 > end_date : 정책 종료일  
 
-**Region**
+**Region**  
 지역 별 위치 및 통계 데이터  
 > code : 지역 코드  
 > province : 지역(특별시, 광역시, 도)  
