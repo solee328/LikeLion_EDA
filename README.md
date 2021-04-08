@@ -3,12 +3,16 @@
 
 ## Installation
 IDE : Google Colab<br>
+```sh
+from google.colab import drive
+drive.mount('/content/drive/')
+```
 
-## Usage
-<추가필요>
+## Project Duration
+2021.04.06 ~ 2021.04.09
+
+## Contributor
+곽희원, 김아현, 박민춘, 이현지, 최디도
 
 ## Contents
 <추가필요>
-
-## Reference
-Likelion k-digital training 2nd<br>
