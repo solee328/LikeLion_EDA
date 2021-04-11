@@ -10,7 +10,7 @@ from google.colab import drive
 drive.mount('/content/drive/')
 ```
 
-2. Download datasets to your drive at /content
+2. Download datasets to your drive at '/content'
 
 ## Project Duration
 2021.04.06 ~ 2021.04.09
